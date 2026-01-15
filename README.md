@@ -1,4 +1,4 @@
-# Hello, Folks! I'm Paulo Cardoso 👋
+# Hi! I'm Paulo Cardoso 👋
 
 ![Full Stack Engineer](https://img.shields.io/badge/-Full%20Stack%20Engineer-050a0e?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Focus](https://img.shields.io/badge/Focus-Scalable%20Systems-050a0e?style=for-the-badge&logo=typescript&logoColor=3178C6)
