@@ -6,12 +6,12 @@
 
 ### 🚀 About Me
 
-I am a **Full Stack Software Engineer** with **5+ years of experience** in IT, specializing in bridging the gap between complex backend architectures and pixel-perfect frontend interfaces.
+Fullstack Engineer with 5+ years of experience in building scalable backend systems using Typescript, Node.js and React. Currently focusing on developing robust applications with Typescript and React, leveraging cloud infrastructure on AWS. Passionate about designing efficient microservices, optimizing system performance, and delivering high-quality software solutions.​
 
-My background in **C#/.NET Engineering** gave me a strong foundation in **Clean Architecture and System Design**, which I now apply to the modern **Node.js & React ecosystem**. I don't just write code; I build reliable, scalable "growth engines" for businesses.
+My background in C#/.NET Engineering gave me a strong foundation in Clean Architecture and System Design, which I now apply to the modern Node.js & React ecosystem.
 
 * 🔭 **Currently working on:** Advanced AI Agents & Next.js 15 Architectures.
-* 🌱 **Learning:** Three.js for 3D Web Experiences.
+* 🌱 **Learning:** Golang and Kubernetes
 * ⚡ **Philosophy:** "If there’s a problem, there’s a way to solve it."
 
 ---
@@ -27,6 +27,7 @@ My background in **C#/.NET Engineering** gave me a strong foundation in **Clean 
 
 **Backend & Architecture**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
