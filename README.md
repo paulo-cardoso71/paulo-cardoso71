@@ -14,7 +14,7 @@ My background in C#/.NET Engineering gave me a strong foundation in Clean Archit
 * 🌱 **Learning:** Golang and Kubernetes
 
 
-### 🌟 Highlights
+### ⚡ Highlights
 
 * 🚀 **Legacy Transformation:** Rebuilt a critical VBA system into C#/.NET, reducing maintenance time by **70%**.
 * 🤖 **AI Engineering:** Developed RAG-based AI Agents for logistics, cutting manual engineering time by **42%**.
