@@ -19,7 +19,7 @@ My background in C#/.NET Engineering gave me a strong foundation in Clean Archit
 * 🚀 **Legacy Transformation:** Rebuilt a critical VBA system into C#/.NET, reducing maintenance time by **70%**.
 * 🤖 **AI Engineering:** Developed RAG-based AI Agents for logistics, cutting manual engineering time by **42%**.
 * 🌎 **International Experience:** Worked remotely for US-based projects implementing complex CI/CD pipelines (Azure DevOps).
-* 🔧 **Open Source:** Building production ready templates for Next.js 15 and scalable Microservices.
+* 🔧 **Open Source:** Building production-ready templates for Next.js 15 and scalable Microservices.
 
 ---
 
