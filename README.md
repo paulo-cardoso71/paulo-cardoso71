@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-Fullstack Engineer with 5+ years of experience in building scalable backend systems using Typescript, Node.js and React. Currently focusing on developing robust applications with Typescript and React, leveraging cloud infrastructure on AWS. Passionate about designing efficient microservices, optimizing system performance, and delivering high quality software solutions.​
+Fullstack Engineer with 5+ years of experience in building scalable backend systems using Typescript, Node.js and React. Currently focusing on developing robust applications with Typescript and React, leveraging cloud infrastructure on AWS. Passionate about designing efficient microservices, optimizing system performance, and delivering high-quality software solutions.​
 
 My background in C#/.NET Engineering gave me a strong foundation in Clean Architecture and System Design, which I now apply to the modern Node.js & React ecosystem.
 
