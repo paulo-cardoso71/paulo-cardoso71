@@ -54,7 +54,7 @@ My background in C#/.NET Engineering gave me a strong foundation in Clean Archit
 
 Here are some of the complex engineering challenges I've solved recently:
 
-#### 🛍️ [Ecommerce Platform (Next.js 15)](https://github.com/paulo-cardoso71/ecommerce-platform)
+#### 🛍️ [Next Store (Next.js 15)](https://github.com/paulo-cardoso71/NextStore)
 *Production-ready B2C platform designed for high-ticket environments.*
 * **The Tech:** Next.js 15 (App Router), MongoDB, Stripe API.
 * **Key Challenge:** Engineered a **payment pipeline with Idempotency Keys** and exponential backoff retries to prevent data loss or double charges during network failures.
