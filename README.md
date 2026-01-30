@@ -60,7 +60,7 @@ Here are some of the complex engineering challenges I've solved recently:
 * **Key Challenge:** Engineered a **payment pipeline with Idempotency Keys** and exponential backoff retries to prevent data loss or double charges during network failures.
 * **Result:** robust Role-Based Access Control (RBAC) and sub-second page loads via Optimistic UI.
 
-#### 🎬 [Netflix Clone (High-Performance Streaming)](https://github.com/paulo-cardoso71/netflix-clone)
+#### 🎬 [NextFlix Clone (High-Performance Streaming)](https://github.com/paulo-cardoso71/netflix-clone)
 *A high-fidelity streaming UI architected for scale.*
 * **The Tech:** TypeScript, Prisma ORM, Clerk Auth, Jotai (Atomic State).
 * **Key Challenge:** implemented a hybrid database strategy to handle user lists and video metadata efficiently.
