@@ -66,10 +66,11 @@ Here are some of the complex engineering challenges I've solved recently:
 * **Key Challenge:** implemented a hybrid database strategy to handle user lists and video metadata efficiently.
 * **Result:** Pixel-perfect responsiveness and seamless authentication flows.
 
-#### 🎯 [Goal Manager](https://github.com/paulo-cardoso71/goal-manager)
-*Fullstack application for tracking objectives.*
-* **The Tech:** Node.js, React, Fastify.
-* **Key Challenge:** Built a clean REST API architecture to manage user goals and progress tracking.
+#### ⚛️ [Nexus (Social Graph Platform)](https://github.com/paulo-cardoso71/Nexus-App)
+*A sophisticated, high-performance social media application architected with GraphQL.*
+* **The Tech:** React 18, Apollo Client/Server, GraphQL, MongoDB, JWT.
+* **Key Challenge:** Solved the N+1 query problem and data over-fetching common in REST APIs by engineering a unified GraphQL Schema. Implemented Normalized Caching and Optimistic UI to ensure sub-second interaction feedback.
+* **Result:** A robust, stateless architecture featuring cascading account deletions, granular permissions, and real-time-like data synchronization.
 
 ---
 
