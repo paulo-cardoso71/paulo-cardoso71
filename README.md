@@ -10,7 +10,7 @@ Fullstack Engineer with 5+ years of experience in building scalable backend syst
 
 My background in C#/.NET Engineering gave me a strong foundation in Clean Architecture and System Design, which I now apply to the modern Node.js & React ecosystem.
 
-* 🔭 **Currently working on:** Advanced AI Agents & Next.js 15 Architectures.
+* 🔭 **Currently working on:** Advanced AI Agents & Scalable Architectures.
 * 🌱 **Learning:** Golang and Kubernetes
 
 
